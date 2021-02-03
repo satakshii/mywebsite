@@ -1,0 +1,27 @@
+body {
+   background-image: linear-gradient(#ffafcc,#ffc8dd,#cdb4db,#bde0fe,#a2d2ff);
+text-align: center;    
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: "Lucida handwriting";
+    font-size: 40px;}
+li  {
+float:right;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+ul {
+list-style-type: none;
+overflow:hidden;
+background-color: antiquewhite;
+position: fixed;
+width:100%;
+margin-top: 0px;
+top: 0px;    
+}
